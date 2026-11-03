@@ -1,35 +1,49 @@
-# Emilio Medina · Primera versión de la web
+# Emilio Medina · Revisión web V2
 
-Copia conservada de la primera vista previa en castellano, preparada el 24 de octubre de 2026. **No se ha publicado como web ni se ha activado GitHub Pages.**
+Rama de trabajo: **revision-web-v2**. Versión castellana para revisión visual y funcional, sin publicar y sin WordPress.
 
-## Abrir una vista previa navegable, sin instalar nada
+## Abrir la vista previa navegable
 
-1. En este repositorio, pulsa el botón verde **Code** y después **Download ZIP**.
-2. Descomprime el ZIP en tu ordenador. No abras los archivos directamente dentro del ZIP.
-3. Abre **index.html** con Chrome, Safari, Firefox o Edge.
-4. Utiliza el menú y los enlaces para recorrer las páginas y las fichas de proyectos. Conserva la carpeta assets junto a los HTML y style.css.
-5. Para revisar la adaptación a distintos tamaños, cambia el ancho de la ventana. La simulación de móvil del navegador también permite probar un ancho de 390 píxeles.
+1. Descarga esta rama: https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/revision-web-v2.zip
+2. Descomprime completamente el ZIP en tu ordenador.
+3. Abre **index.html** con Safari, Chrome, Firefox o Edge. Mantén la carpeta assets, style.css y site.js junto a las páginas.
+4. Recorre el menú y las fichas. En Proyectos, prueba los filtros. En una ventana estrecha, pulsa Menú para abrir la navegación.
+5. Abre **comparacion-v1-v2.html** para revisar la comparación y la alternativa de imagen de portada. La alternativa NO sustituye la imagen actual.
 
-GitHub muestra el código cuando abres index.html en el repositorio; para ver el diseño debes descargar y abrir la copia local como se indica arriba. La vista previa local no publica nada en Internet.
+No necesitas instalar Node, React o WordPress. No hay compilación, fetch de contenido ni módulos que requieran un servidor: los filtros y el menú funcionan con el JavaScript local incluido. El formulario sigue desactivado y muestra el correo.
 
-## Qué contiene esta copia
+En GitHub, abrir index.html muestra código. Para ver el diseño, descarga el ZIP y abre el archivo local. Descargar o abrir esta copia no activa ninguna publicación. En iPhone, el visor de archivos de iOS puede impedir cargar recursos locales: no es una prueba fiable en Safari; la prueba física de iPhone está pendiente.
 
-- Seis páginas principales: Inicio, Proyectos, Cómo puedo ayudarte, Sobre mí, Formación y Contacto.
-- Ocho fichas: Centro de Innovación de Clientes, Ahora Noticias, Vive la Ciencia, Museo de las Ciencias de Castilla-La Mancha, Mujer. Un cuerpo, una vida, Nightology Boat, La Rambla y terraza del Palau de la Música Catalana.
-- index.html, que contiene la misma portada que inicio.html.
-- style.css, con el diseño y sus reglas responsive.
-- assets/: siete imágenes WebP utilizadas por esta versión.
-- content.json: textos y descripciones que acompañaban a la vista previa original.
-- PRIMERA-VERSION.sha256: huellas de los 24 archivos originales para comprobar que se conserva su contenido exacto.
+## Qué cambió
 
-Los HTML, CSS, JSON e imágenes se han conservado byte a byte. Este README y el manifiesto son documentación añadida y no alteran el diseño.
+- Se conserva la base visual y la arquitectura aprobadas: fondo blanco, coral corporativo, titular e imagen principal de playa/globo, cuatro destacados y retrato original.
+- Dieciocho fichas, clasificadas en tres áreas, con filtros de botones accesibles. La Rambla y el Palau ya forman parte del portfolio principal.
+- Contexto, Necesidad, Estrategia e Impacto, con aportación y créditos diferenciados. Ponferrada se identifica como proyecto ejecutivo con renders.
+- Galerías con fotografías extraídas de los PDF y Museo de las Ciencias con una imagen de sala en lugar del pequeño mecanismo.
+- Blog externo entre Formación y Contacto, enlaces a LinkedIn y los diez vídeos facilitados, sin reproductores automáticos ni rastreadores.
+- Mayor presencia de las áreas en Cómo puedo ayudarte; formación pedagógica y UOC incorporadas según el encargo actual.
+- Bloques separados de reconocimientos y doce logotipos de clientes, con selección documentada.
+- Menú móvil real, controles táctiles, foco, movimiento reducido y tipografía fluida.
 
-## Estado de revisión
+## Entrega y revisión
 
-Esta es una vista previa estática, no una instalación WordPress. No incluye archivos de WordPress ni sus paquetes provisionales. No requiere React, Node, compilación, plugins o servicios externos.
+- [Informe de cambios, categorías y pendientes](docs/REVISION-V2.md)
+- [Inventario de fotografías y extracción](docs/imagenes.json)
+- [Inventario de logotipos y relaciones documentadas](docs/logotipos.json)
+- [Resultados detallados de pruebas](docs/pruebas-responsive.json)
+- [Fuentes y aportaciones por proyecto](projects.json)
+- [Comparación visual navegable](comparacion-v1-v2.html)
 
-El formulario permanece desactivado y no envía mensajes. Los enlaces de correo y teléfono pueden abrir las aplicaciones correspondientes del ordenador. Los datos de contacto, atribuciones y contenidos siguen sujetos a revisión. Solo está desarrollada la versión castellana.
+No todos los materiales del mensaje pueden recuperarse como archivos: consulta el informe. La ausencia de una imagen no se ha cubierto con fotografías inventadas.
 
-Se conservan también los detalles pendientes de la primera versión, incluidos el retrato provisional, los símbolos junto a los títulos y la fotografía provisional del Museo de las Ciencias. Guardar esta copia no implica aprobar sus contenidos ni corregirlos.
+## Primera versión conservada
 
-No se incluyen los PDF de trabajo, presupuestos, datos internos, capturas ni documentación de WordPress.
+La rama **primera-version-v1** y main conservan la primera versión. Commit original: **04c5d9b76be407eeb8fb0144f0f9ff9785973de9**.
+
+[Descargar V1](https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/primera-version-v1.zip).
+
+El manifiesto de V1 se conserva en docs/primera-version-v1.sha256 y corresponde a esa rama, no a los archivos modificados de V2. La huella de esta versión está en VERSION-2.sha256.
+
+## Límites de esta revisión
+
+Solo castellano. Safari en iPhone físico sigue pendiente; las pruebas realizadas son en Chromium. No se ha activado GitHub Pages, alojamiento, despliegue ni WordPress. El repositorio es público y sus archivos son visibles; eso no equivale a publicar la web como sitio navegable.

@@ -1,0 +1,1273 @@
+{
+  "engine": "Chromium del sistema",
+  "widths": [
+    375,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "pages": 26,
+  "checks": [
+    {
+      "width": 375,
+      "page": "ahora-noticias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "ars-natura.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "autopista-enchufe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "canal-salud-mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "centro-innovacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "como-puedo-ayudarte.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "comparacion-v1-v2.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "connectus.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "contacto.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "danone-savia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "formacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "icontour.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "index.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "inelfe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "inicio.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "la-rambla.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "museo-ciencias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "museo-energia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "nightology.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "palau.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "pediatric-nutrition.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "proyectos.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "sobre-mi.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "vive-la-ciencia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 375,
+      "page": "xxi-femenino.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "ahora-noticias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "ars-natura.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "autopista-enchufe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "canal-salud-mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "centro-innovacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "como-puedo-ayudarte.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "comparacion-v1-v2.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "connectus.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "contacto.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "danone-savia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "formacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "icontour.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "index.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "inelfe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "inicio.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "la-rambla.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "museo-ciencias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "museo-energia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "nightology.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "palau.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "pediatric-nutrition.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "proyectos.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "sobre-mi.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "vive-la-ciencia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 390,
+      "page": "xxi-femenino.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "ahora-noticias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "ars-natura.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "autopista-enchufe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "canal-salud-mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "centro-innovacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "como-puedo-ayudarte.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "comparacion-v1-v2.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "connectus.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "contacto.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "danone-savia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "formacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "icontour.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "index.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "inelfe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "inicio.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "la-rambla.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "museo-ciencias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "museo-energia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "nightology.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "palau.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "pediatric-nutrition.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "proyectos.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "sobre-mi.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "vive-la-ciencia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 768,
+      "page": "xxi-femenino.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "ahora-noticias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "ars-natura.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "autopista-enchufe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "canal-salud-mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "centro-innovacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "como-puedo-ayudarte.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "comparacion-v1-v2.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "connectus.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "contacto.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "danone-savia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "formacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "icontour.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "index.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "inelfe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "inicio.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "la-rambla.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "museo-ciencias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "museo-energia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "nightology.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "palau.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "pediatric-nutrition.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "proyectos.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "sobre-mi.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "vive-la-ciencia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1024,
+      "page": "xxi-femenino.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "ahora-noticias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "ars-natura.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "autopista-enchufe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "canal-salud-mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "centro-innovacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "como-puedo-ayudarte.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "comparacion-v1-v2.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "connectus.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "contacto.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "danone-savia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "formacion.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "icontour.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "index.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "inelfe.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "inicio.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "la-rambla.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "mujer.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "museo-ciencias.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "museo-energia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "nightology.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "palau.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "pediatric-nutrition.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "proyectos.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "sobre-mi.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "vive-la-ciencia.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    },
+    {
+      "width": 1440,
+      "page": "xxi-femenino.html",
+      "overflow": false,
+      "h1": 1,
+      "viewport": "width=device-width,initial-scale=1",
+      "white": "rgb(255, 255, 255)",
+      "missingAlt": 0
+    }
+  ],
+  "errors": [],
+  "screenshots": [
+    "work/v2-capturas/inicio-desktop.png",
+    "work/v2-capturas/proyectos-desktop.png",
+    "work/v2-capturas/sobre-mi-desktop.png",
+    "work/v2-capturas/formacion-desktop.png",
+    "work/v2-capturas/vive-la-ciencia-desktop.png",
+    "work/v2-capturas/museo-ciencias-desktop.png",
+    "work/v2-capturas/centro-innovacion-desktop.png",
+    "work/v2-capturas/contacto-desktop.png",
+    "work/v2-capturas/comparacion-v1-v2-desktop.png"
+  ],
+  "safari": "No se dispone de Safari/iPhone físico ni WebKit ejecutable. Pendiente de validar allí.",
+  "filters": [
+    {
+      "width": 375,
+      "counts": {
+        "marketing": 5,
+        "cultura": 9,
+        "eventos": 4,
+        "todos": 18
+      }
+    },
+    {
+      "width": 390,
+      "counts": {
+        "marketing": 5,
+        "cultura": 9,
+        "eventos": 4,
+        "todos": 18
+      }
+    },
+    {
+      "width": 768,
+      "counts": {
+        "marketing": 5,
+        "cultura": 9,
+        "eventos": 4,
+        "todos": 18
+      }
+    },
+    {
+      "width": 1024,
+      "counts": {
+        "marketing": 5,
+        "cultura": 9,
+        "eventos": 4,
+        "todos": 18
+      }
+    },
+    {
+      "width": 1440,
+      "counts": {
+        "marketing": 5,
+        "cultura": 9,
+        "eventos": 4,
+        "todos": 18
+      }
+    }
+  ],
+  "menu": [
+    {
+      "width": 375,
+      "open_close_escape_focus": true
+    },
+    {
+      "width": 390,
+      "open_close_escape_focus": true
+    },
+    {
+      "width": 768,
+      "open_close_escape_focus": true
+    }
+  ],
+  "contact": {
+    "disabled": true,
+    "email_alternative": true
+  },
+  "reduced_motion": "auto",
+  "image_load_check": {
+    "images_checked": 47,
+    "errors": []
+  },
+  "final_header_widths": [
+    375,
+    390,
+    768,
+    1024,
+    1440
+  ]
+}
