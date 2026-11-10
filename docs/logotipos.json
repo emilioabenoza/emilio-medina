@@ -70,5 +70,29 @@
     "label": "Fundació Palo Alto",
     "relation": "Exposición corporativa, CV",
     "source": "Logos_Emilio_Medina.zip/logos/fundacio-palo-alto.png"
+  },
+  {
+    "file": "assets/logos/mega-chile.webp",
+    "label": "MEGA, Chile",
+    "relation": "Cliente final de Ahora Noticias; colaboración con Sámara.",
+    "source": "Logos_Emilio_Medina.zip/logos/mega-chile.png"
+  },
+  {
+    "file": "assets/logos/mide-mexico.svg",
+    "label": "MIDE, México",
+    "relation": "Contratación del PNI de México para Mead Johnson, indicada en V2.",
+    "source": "Logos_Emilio_Medina.zip/logos/mide-mexico.svg"
+  },
+  {
+    "file": "assets/logos/gobierno-de-espana.webp",
+    "label": "Gobierno de España",
+    "relation": "Cliente del proyecto ejecutivo del Museo Nacional de la Energía.",
+    "source": "Logos_Emilio_Medina.zip/logos/gobierno-de-espana.png"
+  },
+  {
+    "file": "assets/logos/interprofit.svg",
+    "label": "Interprofit",
+    "relation": "Agencia intermediaria de la presentación Danone Savia.",
+    "source": "Logos_Emilio_Medina.zip/logos/interprofit.svg"
   }
 ]

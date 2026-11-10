@@ -1,0 +1,10 @@
+{
+  "v2_commit": "3a88520fa789f428b5b0749bebf177e496d1bdf7",
+  "backup_branch": "backup-web-v2",
+  "style_v2_sha256": "e7b8c31282231f2dd02bb6ba60c87c05c49f7e670f497c2568f3fd1a9a8b7885",
+  "biography_html_sha256": "a49f07302ea46b9bb784f15e9241d87ca995fc57251f24829dfb91ef9fd50f65",
+  "preserved_assets": {
+    "assets/cic.webp": "cf16745376bf1d0d29b51424e872cc5ea15984adfe7ae52e92fe901a1cc2e6ab",
+    "assets/emilio.webp": "185f93db7754f7580ba36b3294ae159e243c5022d3051369e35a8e17f9e084d2"
+  }
+}

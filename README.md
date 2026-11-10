@@ -1,49 +1,40 @@
-# Emilio Medina · Revisión web V2
+# Emilio Medina · Vista previa V3
 
-Rama de trabajo: **revision-web-v2**. Versión castellana para revisión visual y funcional, sin publicar y sin WordPress.
+Evolución controlada de la V2, sin rediseño, publicación ni WordPress. Rama **revision-web-v3**. Hay materiales gráficos pendientes: el detalle completo está en [el informe de V3](docs/REVISION-V3.md).
 
-## Abrir la vista previa navegable
+## Ver la web en tu ordenador
 
-1. Descarga esta rama: https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/revision-web-v2.zip
-2. Descomprime completamente el ZIP en tu ordenador.
-3. Abre **index.html** con Safari, Chrome, Firefox o Edge. Mantén la carpeta assets, style.css y site.js junto a las páginas.
-4. Recorre el menú y las fichas. En Proyectos, prueba los filtros. En una ventana estrecha, pulsa Menú para abrir la navegación.
-5. Abre **comparacion-v1-v2.html** para revisar la comparación y la alternativa de imagen de portada. La alternativa NO sustituye la imagen actual.
+1. [Descarga la V3 en ZIP](https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/revision-web-v3.zip).
+2. Descomprime el ZIP.
+3. Busca **index.html**, haz clic derecho y elige **Abrir con → Safari** (o Chrome / Firefox).
+4. Usa el menú y las flechas de Proyectos y Cómo puedo ayudarte. Las categorías de Proyectos abren el filtro correcto.
 
-No necesitas instalar Node, React o WordPress. No hay compilación, fetch de contenido ni módulos que requieran un servidor: los filtros y el menú funcionan con el JavaScript local incluido. El formulario sigue desactivado y muestra el correo.
+No abras los HTML dentro del ZIP ni muevas assets, style.css o site.js. No necesitas instalar nada. Los filtros funcionan sin conexión y no dependen de fetch, módulos o un servicio externo. En GitHub, los HTML se muestran como código: hay que descargar la carpeta para ver el diseño.
 
-En GitHub, abrir index.html muestra código. Para ver el diseño, descarga el ZIP y abre el archivo local. Descargar o abrir esta copia no activa ninguna publicación. En iPhone, el visor de archivos de iOS puede impedir cargar recursos locales: no es una prueba fiable en Safari; la prueba física de iPhone está pendiente.
+## Qué se conserva
 
-## Qué cambió
+Diseño, fuente, paleta, fondo blanco, espaciados generales, foto principal, titular y cuatro destacados de Inicio; galerías y estructura de fichas; tres párrafos iniciales y retrato de Sobre mí; diseño de Formación.
 
-- Se conserva la base visual y la arquitectura aprobadas: fondo blanco, coral corporativo, titular e imagen principal de playa/globo, cuatro destacados y retrato original.
-- Dieciocho fichas, clasificadas en tres áreas, con filtros de botones accesibles. La Rambla y el Palau ya forman parte del portfolio principal.
-- Contexto, Necesidad, Estrategia e Impacto, con aportación y créditos diferenciados. Ponferrada se identifica como proyecto ejecutivo con renders.
-- Galerías con fotografías extraídas de los PDF y Museo de las Ciencias con una imagen de sala en lugar del pequeño mecanismo.
-- Blog externo entre Formación y Contacto, enlaces a LinkedIn y los diez vídeos facilitados, sin reproductores automáticos ni rastreadores.
-- Mayor presencia de las áreas en Cómo puedo ayudarte; formación pedagógica y UOC incorporadas según el encargo actual.
-- Bloques separados de reconocimientos y doce logotipos de clientes, con selección documentada.
-- Menú móvil real, controles táctiles, foco, movimiento reducido y tipografía fluida.
+## Qué se revisa
 
-## Entrega y revisión
+Textos de 19 fichas, incluida Palo Alto; CONNECTUS completado con las confirmaciones de Emilio; nuevo vídeo de XXI; desplegables accesibles, enlaces de filtro y anclas; textos literales de Formación; presentación integrada de colegiación; simplificación de reconocimientos y clientes; cuatro logos de clientes adicionales; correo emedina@emiliomedina.com.
 
-- [Informe de cambios, categorías y pendientes](docs/REVISION-V2.md)
-- [Inventario de fotografías y extracción](docs/imagenes.json)
-- [Inventario de logotipos y relaciones documentadas](docs/logotipos.json)
-- [Resultados detallados de pruebas](docs/pruebas-responsive.json)
-- [Fuentes y aportaciones por proyecto](projects.json)
-- [Comparación visual navegable](comparacion-v1-v2.html)
+El formulario sigue desactivado y el correo es la alternativa visible. Los logotipos de premios, Col·legi, icono oficial de LinkedIn y nuevas fotografías aún no se han incorporado porque faltan los archivos originales. No se presentan como añadidos.
 
-No todos los materiales del mensaje pueden recuperarse como archivos: consulta el informe. La ausencia de una imagen no se ha cubierto con fotografías inventadas.
+## Entrega y control
 
-## Primera versión conservada
+- [Cambios, fuentes, materiales pendientes y pruebas](docs/REVISION-V3.md)
+- [Resultados de las pruebas V3](docs/pruebas-v3.json)
+- [Fuentes y pendientes por proyecto](docs/projects-v3-fuentes.json)
+- [Inventario de logos](docs/logotipos.json)
+- VERSION-3.sha256: manifiesto de los archivos de esta revisión.
 
-La rama **primera-version-v1** y main conservan la primera versión. Commit original: **04c5d9b76be407eeb8fb0144f0f9ff9785973de9**.
+135 comprobaciones de composición en Chromium: 375, 390, 768, 1024 y 1440 px. También filtros y desplegables por teclado. Safari en iPhone real sigue pendiente.
 
-[Descargar V1](https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/primera-version-v1.zip).
+## V2 protegida
 
-El manifiesto de V1 se conserva en docs/primera-version-v1.sha256 y corresponde a esa rama, no a los archivos modificados de V2. La huella de esta versión está en VERSION-2.sha256.
+[Descargar la V2 intacta](https://github.com/emilioabenoza/emilio-medina/archive/refs/heads/backup-web-v2.zip).
 
-## Límites de esta revisión
+Fuente y respaldo: revision-web-v2 y backup-web-v2 apuntan al commit **3a88520fa789f428b5b0749bebf177e496d1bdf7**. Las ramas main, primera-version-v1 y revision-web-v2 no se sustituyen. Los informes y manifiestos V1/V2 conservados son referencias históricas de esas ramas, no comprobaciones del contenido modificado de V3.
 
-Solo castellano. Safari en iPhone físico sigue pendiente; las pruebas realizadas son en Chromium. No se ha activado GitHub Pages, alojamiento, despliegue ni WordPress. El repositorio es público y sus archivos son visibles; eso no equivale a publicar la web como sitio navegable.
+No se ha activado GitHub Pages, desplegado, fusionado ni migrado a WordPress. El repositorio sigue siendo público; la vista previa se abre localmente.
